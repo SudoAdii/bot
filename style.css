@@ -59,7 +59,7 @@ body.hide-header .header{
 
 .navbar{
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: space-between;
     padding: 1rem 2rem;
 }
