@@ -67,6 +67,7 @@ body.hide-header .header{
 .navbar__logo{
     color: var(--text-secondary-color);
     font-weight: 600;
+     text-align: left;
 }
 
 .navbar__button{
